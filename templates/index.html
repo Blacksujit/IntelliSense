@@ -1,0 +1,27 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Summarization Bot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Text Summarization Bot</h1>
+
+        <form id="summaryForm">
+            <textarea id="textInput" placeholder="Enter text here..." required></textarea>
+            <button type="submit">Summarize</button>
+        </form>
+
+        <div id="summaryResult">
+            <h2>Summary:</h2>
+            <p id="summaryText"></p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

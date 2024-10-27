@@ -2,7 +2,7 @@
 
  
 <div align="center">
-  <img src="0e029b_366511587b74494fb2a3140e84314030~mv2-1.gif" alt="IntelliSense Banner" width="20%" height="200">
+  <img src="0e029b_366511587b74494fb2a3140e84314030~mv2-1.gif" alt="IntelliSense Banner" width="40%" height="40%">
 </div>
 
 <br>

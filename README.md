@@ -1,27 +1,35 @@
-# 🚀 IntelliSense: Your All-in-One AI-Powered Information Assistant
+# 🚀 QuantumLens: Your All-in-One AI-Powered Information Assistant
 
  
 <div align="center">
-  <img src="0e029b_366511587b74494fb2a3140e84314030~mv2-1.gif" alt="IntelliSense Banner" width="60%" height="60%">
+  <img src="0e029b_366511587b74494fb2a3140e84314030~mv2-1.gif" alt="QuantumLens Banner" width="60%" height="60%">
 </div>
 
 <br>
 
+# Project View:
+
+
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 ## 📚 Table of Contents
 1. [Introduction](#-introduction)
 2. [Features](#-features)
-3. [Why IntelliSense?](#-why-intellisense)
+3. [Why QuantumLens?](#-why-QuantumLens)
 4. [Installation](#-installation)
-5. [Usage](#-usage)
-6. [Research Inspiration](#-research-inspiration)
-7. [Challenges Faced](#-challenges-faced)
-8. [Contributing](#-contributing)
-9. [License](#-license)
+7. [Research Inspiration](#-research-inspiration)
+8. [Challenges Faced](#-challenges-faced)
+9. [Contributing](#-contributing)
+10. [License](#-license)
 
 ## 🌟 Introduction
 
-IntelliSense is a cutting-edge, AI-powered information assistant designed to revolutionize how you interact with and process information. By leveraging advanced machine learning algorithms and natural language processing techniques, IntelliSense offers a suite of powerful tools to enhance your daily information consumption and analysis.
+QuantumLens is a cutting-edge, AI-powered information assistant designed to revolutionize how you interact with and process information. By leveraging advanced machine learning algorithms and natural language processing techniques, QuantumLens offers a suite of powerful tools to enhance your daily information consumption and analysis.
 
 <br>
 
@@ -73,9 +81,9 @@ IntelliSense is a cutting-edge, AI-powered information assistant designed to rev
 - **What it does**: Identifies and classifies named entities (e.g., person names, organizations) in text.
 - **Why it's important**: Enhances text analysis and information extraction capabilities.
 
-## 🌈 Why IntelliSense?
+## 🌈 Why QuantumLens?
 
-IntelliSense is not just another information tool; it's your personal AI-powered assistant designed to make your daily information processing tasks easier, faster, and more efficient. Here's why IntelliSense is indispensable for your day-to-day use:
+QuantumLens is not just another information tool; it's your personal AI-powered assistant designed to make your daily information processing tasks easier, faster, and more efficient. Here's why QuantumLens is indispensable for your day-to-day use:
 
 1. **Time-Saving**: Quickly summarize long articles, reports, or web pages, saving hours of reading time.
 2. **Enhanced Learning**: Generate questions from text to improve comprehension and retention of information.
@@ -85,38 +93,31 @@ IntelliSense is not just another information tool; it's your personal AI-powered
 6. **Research Aid**: Quickly gather information on any topic with Wikipedia summaries and keyword extraction.
 7. **Data Extraction**: Easily identify important entities in text for further analysis or categorization.
 
-Whether you're a student, professional, researcher, or just someone who loves to stay informed, IntelliSense provides the tools you need to navigate the information age efficiently and effectively.
+Whether you're a student, professional, researcher, or just someone who loves to stay informed, QuantumLens provides the tools you need to navigate the information age efficiently and effectively.
 
 ## 🛠 Installation
 
-To get started with IntelliSense, follow these simple steps:
+To get started with QuantumLens, follow these simple steps:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/intellisense.git
+   git clone https://github.com/yourusername/QuantumLens.git
    ```
 
-2. Navigate to the project directory:
-   ```
-   cd intellisense
-   ```
 
-3. Locate the `app.py` file in the project directory.
+2. Locate the `app.py` file in the project directory.
 
-4. Run the `app.py` file from the same directory:
+3. Run the `app.py` file from the same directory:
    ```
    python app.py
    ```
 
 Make sure you have all the necessary dependencies installed before running the application. You may need to set up a virtual environment and install the required packages listed in the `requirements.txt` file (if provided).
 
-## 🖥 Usage
-
-[Add usage instructions here, including how to access the web interface, API endpoints if applicable, and examples of how to use each feature.]
 
 ## 📚 Research Inspiration
 
-IntelliSense draws inspiration from several cutting-edge research papers in the fields of natural language processing and machine learning:
+QuantumLens draws inspiration from several cutting-edge research papers in the fields of natural language processing and machine learning:
 
 1. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" by Devlin et al. (2018) - [Link](https://arxiv.org/abs/1810.04805)
    - Inspired our approach to text understanding and named entity recognition.
@@ -135,19 +136,19 @@ IntelliSense draws inspiration from several cutting-edge research papers in the 
 
 ## 🧠 Cool Things to Know
 
-1. **Adaptive Learning**: IntelliSense uses adaptive learning algorithms to improve its performance over time based on user interactions.
+1. **Adaptive Learning**: QuantumLens uses adaptive learning algorithms to improve its performance over time based on user interactions.
 
 2. **Privacy-Focused**: We prioritize user privacy by implementing state-of-the-art encryption for all data processing.
 
 3. **Customizable UI**: The interface can be customized to suit individual preferences, enhancing user experience.
 
-4. **API Integration**: IntelliSense can be easily integrated with other applications through our robust API.
+4. **API Integration**: QuantumLens can be easily integrated with other applications through our robust API.
 
 5. **Offline Mode**: Some features are available offline, ensuring functionality even without an internet connection.
 
 ## 🚧 Challenges Faced
 
-During the development of IntelliSense, we encountered several challenges:
+During the development of QuantumLens, we encountered several challenges:
 
 1. **Scalability**: Ensuring the system could handle multiple requests simultaneously without compromising performance.
 
@@ -163,7 +164,7 @@ These challenges were addressed through iterative development, extensive testing
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the functionality and capabilities of IntelliSense. Please refer to our contribution guidelines for information on how to submit improvements and bug fixes.
+We welcome contributions to enhance the functionality and capabilities of QuantumLens. Please refer to our contribution guidelines for information on how to submit improvements and bug fixes.
 
 ## 📄 License
 

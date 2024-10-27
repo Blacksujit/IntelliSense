@@ -7,15 +7,15 @@
 
 
 ## 📚 Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Why IntelliSense?](#why-intellisense)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Research Inspiration](#research-inspiration)
-7. [Challenges Faced](#challenges-faced)
-8. [Contributing](#contributing)
-9. [License](#license)
+1. [Introduction](#-introduction)
+2. [Features](#-features)
+3. [Why IntelliSense?](#-why-intellisense)
+4. [Installation](#-installation)
+5. [Usage](#-usage)
+6. [Research Inspiration](#-research-inspiration)
+7. [Challenges Faced](#-challenges-faced)
+8. [Contributing](#-contributing)
+9. [License](#-license)
 
 ## 🌟 Introduction
 

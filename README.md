@@ -87,11 +87,10 @@ QuantumLens is not just another information tool; it's your personal AI-powered 
 
 1. **Time-Saving**: Quickly summarize long articles, reports, or web pages, saving hours of reading time.
 2. **Enhanced Learning**: Generate questions from text to improve comprehension and retention of information.
-3. **Multilingual Support**: Break language barriers with instant translation capabilities.
-4. **Financial Insights**: Stay updated with real-time stock information and easy currency conversions.
-5. **Content Analysis**: Understand the sentiment and readability of your content to improve communication.
-6. **Research Aid**: Quickly gather information on any topic with Wikipedia summaries and keyword extraction.
-7. **Data Extraction**: Easily identify important entities in text for further analysis or categorization.
+3. **Financial Insights**: Stay updated with real-time stock information and easy currency conversions.
+4. **Content Analysis**: Understand the sentiment and readability of your content to improve communication.
+5. **Research Aid**: Quickly gather information on any topic with Wikipedia summaries and keyword extraction.
+6. **Data Extraction**: Easily identify important entities in text for further analysis or categorization.
 
 Whether you're a student, professional, researcher, or just someone who loves to stay informed, QuantumLens provides the tools you need to navigate the information age efficiently and effectively.
 

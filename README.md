@@ -1,4 +1,4 @@
-# 🚀 QuantumLens: Your All-in-One AI-Powered Information Assistant
+# 🚀 QuantumLens: Your All-in-One AI-Powered Information Assistant.
 
  
 <div align="center">

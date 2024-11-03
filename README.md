@@ -7,7 +7,7 @@
 
 <br>
 
-# Project View:
+# Project View
 
 
 ![alt text](image.png)
